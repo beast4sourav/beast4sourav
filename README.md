@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/souravkr9431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souravkr9431" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/wick gamer](https://youtube.com/@wickgamer7109?si=SRwdrSB_SCx7oMwK)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wick gamer" height="30" width="40" /></a>
+<a href="https://youtube.com/@wickgamer7109?si=SRwdrSB_SCx7oMwK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wick gamer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
