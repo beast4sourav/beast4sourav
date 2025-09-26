@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next js and Express js**
 
-- 👨‍💻 All of my projects are available at (https://portfolio-sourav-9431.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://portfolio-sourav-kr.vercel.app/)
 
 - 📫 How to reach me **souravkumar59139@gmail.com**
 
